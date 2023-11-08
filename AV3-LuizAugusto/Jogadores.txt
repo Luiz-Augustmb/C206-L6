@@ -1,0 +1,36 @@
+--- Jogador ---
+Messi
+10
+Atacante
+--- Jogador ---
+Rogério ceni
+100
+Goleiro
+--- Jogador ---
+Beraldo
+23
+Zagueiro
+--- Jogador ---
+Ronaldo
+9
+Atacante
+--- Jogador ---
+Cortoui
+89
+Goleiro
+--- Jogador ---
+Thiago Silva
+4
+Zagueiro
+--- Jogador ---
+Hazzard 
+8
+Atacante
+--- Jogador ---
+Segio ramos
+2
+Zagueiro
+--- Jogador ---
+Cristiano Ronaldo
+7
+Atacante
